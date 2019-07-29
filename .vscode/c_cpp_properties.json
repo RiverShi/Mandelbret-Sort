@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/c++/8/**",
+                "/usr/local/include/opencv/**",
+                "/usr/local/include/opencv2/**",
+                "/usr/include/**",
+                "/usr/local/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "/usr/include/c++/8",
+                    "/usr/local/include/opencv",
+                    "/usr/local/include/opencv2",
+                    "/usr/include",
+                    "/usr/local/include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
